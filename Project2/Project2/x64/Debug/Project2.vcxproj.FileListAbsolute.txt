@@ -1,0 +1,6 @@
+C:\Users\Administrador\Downloads\Estru\Project2\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Users\Administrador\Downloads\Estru\Project2\Project2\x64\Debug\Project2.MyForm.resources
+C:\Users\Administrador\Downloads\Estru\Project2\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
+C:\Users\hapav\Downloads\Project2\Project2\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Users\hapav\Downloads\Project2\Project2\Project2\x64\Debug\Project2.MyForm.resources
+C:\Users\hapav\Downloads\Project2\Project2\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
