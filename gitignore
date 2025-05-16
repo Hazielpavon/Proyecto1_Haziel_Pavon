@@ -1,0 +1,46 @@
+
+# Archivos y carpetas generadas por Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.cache
+*.log
+
+# Archivos de compilación
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.ipch
+*.aps
+*.ncb
+*.idb
+*.tlog
+*.pch
+*.res
+*.lib
+*.exp
+*.metagen
+
+# Bases de datos de navegación
+*.VC.db
+*.VC.opendb
+
+# Carpetas de salida
+x64/
+Debug/
+Release/
+
+# Archivos específicos del proyecto
+*.Build.CppClean.log
+*.FileListAbsolute.txt
+*.vcxproj.user
+*.AssemblyReference.cache
+*.GenerateResource.cache
+
+# Archivos temporales
+*.tmp
+*.bak
