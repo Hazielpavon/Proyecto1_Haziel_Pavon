@@ -118,23 +118,33 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Cola.cpp" />
     <ClCompile Include="Gestion.cpp" />
+    <ClCompile Include="GestorMensajes.cpp" />
     <ClCompile Include="ListaContactos.cpp" />
+    <ClCompile Include="ListaMensajes.cpp" />
     <ClCompile Include="Listausuarios.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="MyForm.cpp" />
     <ClCompile Include="Nodo.cpp" />
+    <ClCompile Include="NodoMensaje.cpp" />
     <ClCompile Include="Persona.cpp" />
+    <ClCompile Include="Pila.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Cola.h" />
     <ClInclude Include="Gestion.h" />
+    <ClInclude Include="GestorMensajes.h" />
     <ClInclude Include="ListaContactos.h" />
+    <ClInclude Include="ListaMensajes.h" />
     <ClInclude Include="Listausuarios.h" />
     <ClInclude Include="MyForm.h">
       <FileType>CppForm</FileType>
     </ClInclude>
     <ClInclude Include="Nodo.h" />
+    <ClInclude Include="NodoMensaje.h" />
     <ClInclude Include="Persona.h" />
+    <ClInclude Include="Pila.h" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="MyForm.resx">

@@ -1,62 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hapav\\Downloads\\Project2\\Project2\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
-      "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\Listausuarios.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Listausuarios.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\Gestion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Gestion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\Listausuarios.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Listausuarios.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\ListaContactos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\ListaContactos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\Nodo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Nodo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\Gestion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Gestion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\ListaContactos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\ListaContactos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\Persona.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Persona.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\Persona.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Persona.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Persona.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\Nodo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Persona.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Persona.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Pila.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Pila.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\NodoMensaje.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\NodoMensaje.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Nodo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Nodo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Nodo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Nodo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Listausuarios.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Listausuarios.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Listausuarios.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Listausuarios.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\ListaMensajes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\ListaMensajes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\ListaContactos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\ListaContactos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\ListaContactos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\ListaContactos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\GestorMensajes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\GestorMensajes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Gestion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Gestion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Gestion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Gestion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Cola.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA615A57-0F0E-5B68-098D-88C9BE50E69B}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Cola.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,175 +82,240 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Gestion.cpp",
-              "DocumentMoniker": "C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\Gestion.cpp",
-              "RelativeDocumentMoniker": "Project2\\Gestion.cpp",
-              "ToolTip": "C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\Gestion.cpp",
-              "RelativeToolTip": "Project2\\Gestion.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-15T04:30:13.303Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Gestion.h",
-              "DocumentMoniker": "C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\Gestion.h",
-              "RelativeDocumentMoniker": "Project2\\Gestion.h",
-              "ToolTip": "C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\Gestion.h",
-              "RelativeToolTip": "Project2\\Gestion.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Pila.h",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Pila.h",
+              "RelativeDocumentMoniker": "Project2\\Pila.h",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Pila.h",
+              "RelativeToolTip": "Project2\\Pila.h",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwCsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-15T04:28:28.001Z"
+              "WhenOpened": "2025-05-17T20:34:15.891Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ListaContactos.cpp",
-              "DocumentMoniker": "C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\ListaContactos.cpp",
-              "RelativeDocumentMoniker": "Project2\\ListaContactos.cpp",
-              "ToolTip": "C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\ListaContactos.cpp",
-              "RelativeToolTip": "Project2\\ListaContactos.cpp",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAAAH4AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-07T04:38:12.301Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ListaContactos.h",
-              "DocumentMoniker": "C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\ListaContactos.h",
-              "RelativeDocumentMoniker": "Project2\\ListaContactos.h",
-              "ToolTip": "C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\ListaContactos.h",
-              "RelativeToolTip": "Project2\\ListaContactos.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-07T04:20:15.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Listausuarios.cpp",
-              "DocumentMoniker": "C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\Listausuarios.cpp",
-              "RelativeDocumentMoniker": "Project2\\Listausuarios.cpp",
-              "ToolTip": "C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\Listausuarios.cpp",
-              "RelativeToolTip": "Project2\\Listausuarios.cpp",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAAAJQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-07T03:32:52.076Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Listausuarios.h",
-              "DocumentMoniker": "C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\Listausuarios.h",
-              "RelativeDocumentMoniker": "Project2\\Listausuarios.h",
-              "ToolTip": "C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\Listausuarios.h",
-              "RelativeToolTip": "Project2\\Listausuarios.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-07T03:25:40.344Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MyForm.h [Design]",
-              "DocumentMoniker": "C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\MyForm.h",
+              "Title": "MyForm.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\MyForm.h",
               "RelativeDocumentMoniker": "Project2\\MyForm.h",
-              "ToolTip": "C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\MyForm.h [Design]",
-              "RelativeToolTip": "Project2\\MyForm.h [Design]",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\MyForm.h [Dise\u00F1o]",
+              "RelativeToolTip": "Project2\\MyForm.h [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-07T02:11:52.158Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Persona.cpp",
-              "DocumentMoniker": "C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\Persona.cpp",
-              "RelativeDocumentMoniker": "Project2\\Persona.cpp",
-              "ToolTip": "C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\Persona.cpp",
-              "RelativeToolTip": "Project2\\Persona.cpp",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAYwG8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-04T10:17:27.085Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Persona.h",
-              "DocumentMoniker": "C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\Persona.h",
-              "RelativeDocumentMoniker": "Project2\\Persona.h",
-              "ToolTip": "C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\Persona.h",
-              "RelativeToolTip": "Project2\\Persona.h",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAB4AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-04T10:17:24.523Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Nodo.cpp",
-              "DocumentMoniker": "C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\Nodo.cpp",
-              "RelativeDocumentMoniker": "Project2\\Nodo.cpp",
-              "ToolTip": "C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\Nodo.cpp",
-              "RelativeToolTip": "Project2\\Nodo.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-04T10:17:10.698Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Nodo.h",
-              "DocumentMoniker": "C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\Nodo.h",
-              "RelativeDocumentMoniker": "Project2\\Nodo.h",
-              "ToolTip": "C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\Nodo.h",
-              "RelativeToolTip": "Project2\\Nodo.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-04T10:17:06.66Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\Main.cpp",
-              "RelativeDocumentMoniker": "Project2\\Main.cpp",
-              "ToolTip": "C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\Main.cpp",
-              "RelativeToolTip": "Project2\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-04T07:21:58.458Z"
+              "WhenOpened": "2025-05-19T03:04:38.581Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MyForm.cpp",
-              "DocumentMoniker": "C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\MyForm.cpp",
-              "RelativeDocumentMoniker": "Project2\\MyForm.cpp",
-              "ToolTip": "C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\MyForm.cpp",
-              "RelativeToolTip": "Project2\\MyForm.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Title": "NodoMensaje.h",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\NodoMensaje.h",
+              "RelativeDocumentMoniker": "Project2\\NodoMensaje.h",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\NodoMensaje.h",
+              "RelativeToolTip": "Project2\\NodoMensaje.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:27:05.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Gestion.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Gestion.cpp",
+              "RelativeDocumentMoniker": "Project2\\Gestion.cpp",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Gestion.cpp",
+              "RelativeToolTip": "Project2\\Gestion.cpp",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAEYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-04T07:21:13.81Z"
+              "WhenOpened": "2025-05-15T04:30:13.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Gestion.h",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Gestion.h",
+              "RelativeDocumentMoniker": "Project2\\Gestion.h",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Gestion.h",
+              "RelativeToolTip": "Project2\\Gestion.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-15T04:28:28.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Listausuarios.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Listausuarios.cpp",
+              "RelativeDocumentMoniker": "Project2\\Listausuarios.cpp",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Listausuarios.cpp",
+              "RelativeToolTip": "Project2\\Listausuarios.cpp",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAuwMkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T03:32:52.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ListaContactos.h",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\ListaContactos.h",
+              "RelativeDocumentMoniker": "Project2\\ListaContactos.h",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\ListaContactos.h",
+              "RelativeToolTip": "Project2\\ListaContactos.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-07T04:20:15.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Listausuarios.h",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Listausuarios.h",
+              "RelativeDocumentMoniker": "Project2\\Listausuarios.h",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Listausuarios.h",
+              "RelativeToolTip": "Project2\\Listausuarios.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-07T03:25:40.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Nodo.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Nodo.cpp",
+              "RelativeDocumentMoniker": "Project2\\Nodo.cpp",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Nodo.cpp",
+              "RelativeToolTip": "Project2\\Nodo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-04T10:17:10.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nodo.h",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Nodo.h",
+              "RelativeDocumentMoniker": "Project2\\Nodo.h",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Nodo.h",
+              "RelativeToolTip": "Project2\\Nodo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-04T10:17:06.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Main.cpp",
+              "RelativeDocumentMoniker": "Project2\\Main.cpp",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Main.cpp",
+              "RelativeToolTip": "Project2\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-04T07:21:58.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyForm.h",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\MyForm.h",
+              "RelativeDocumentMoniker": "Project2\\MyForm.h",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\MyForm.h",
+              "RelativeToolTip": "Project2\\MyForm.h",
+              "ViewState": "AgIAAN8NAAAAAAAAAAAuwAkOAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-04T07:39:47.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ListaContactos.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\ListaContactos.cpp",
+              "RelativeDocumentMoniker": "Project2\\ListaContactos.cpp",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\ListaContactos.cpp",
+              "RelativeToolTip": "Project2\\ListaContactos.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwIcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T04:38:12.301Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MyForm.h",
-              "DocumentMoniker": "C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\MyForm.h",
-              "RelativeDocumentMoniker": "Project2\\MyForm.h",
-              "ToolTip": "C:\\Users\\hapav\\Downloads\\Project2\\Project2\\Project2\\MyForm.h",
-              "RelativeToolTip": "Project2\\MyForm.h",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAAAJ4AAAAjAAAAAAAAAA==",
+              "Title": "Persona.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Persona.cpp",
+              "RelativeDocumentMoniker": "Project2\\Persona.cpp",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Persona.cpp",
+              "RelativeToolTip": "Project2\\Persona.cpp",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAuwPMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-04T10:17:27.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Persona.h",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Persona.h",
+              "RelativeDocumentMoniker": "Project2\\Persona.h",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Persona.h",
+              "RelativeToolTip": "Project2\\Persona.h",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwFEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-04T07:39:47.474Z"
+              "WhenOpened": "2025-05-04T10:17:24.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GestorMensajes.h",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\GestorMensajes.h",
+              "RelativeDocumentMoniker": "Project2\\GestorMensajes.h",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\GestorMensajes.h",
+              "RelativeToolTip": "Project2\\GestorMensajes.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T01:56:28.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListaMensajes.h",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\ListaMensajes.h",
+              "RelativeDocumentMoniker": "Project2\\ListaMensajes.h",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\ListaMensajes.h",
+              "RelativeToolTip": "Project2\\ListaMensajes.h",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAAAHEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:20:10.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Cola.h",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Cola.h",
+              "RelativeDocumentMoniker": "Project2\\Cola.h",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Project2 (2)\\Project2\\Project2\\Project2\\Cola.h",
+              "RelativeToolTip": "Project2\\Cola.h",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T20:34:07.045Z",
+              "EditorCaption": ""
             }
           ]
         }

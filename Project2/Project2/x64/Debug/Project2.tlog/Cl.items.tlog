@@ -1,8 +1,13 @@
-C:\Users\hapav\Downloads\Project2\Project2\Project2\Gestion.cpp;C:\Users\hapav\Downloads\Project2\Project2\Project2\x64\Debug\Gestion.obj
-C:\Users\hapav\Downloads\Project2\Project2\Project2\ListaContactos.cpp;C:\Users\hapav\Downloads\Project2\Project2\Project2\x64\Debug\ListaContactos.obj
-C:\Users\hapav\Downloads\Project2\Project2\Project2\Listausuarios.cpp;C:\Users\hapav\Downloads\Project2\Project2\Project2\x64\Debug\Listausuarios.obj
-C:\Users\hapav\Downloads\Project2\Project2\Project2\Main.cpp;C:\Users\hapav\Downloads\Project2\Project2\Project2\x64\Debug\Main.obj
-C:\Users\hapav\Downloads\Project2\Project2\Project2\MyForm.cpp;C:\Users\hapav\Downloads\Project2\Project2\Project2\x64\Debug\MyForm.obj
-C:\Users\hapav\Downloads\Project2\Project2\Project2\Nodo.cpp;C:\Users\hapav\Downloads\Project2\Project2\Project2\x64\Debug\Nodo.obj
-C:\Users\hapav\Downloads\Project2\Project2\Project2\Persona.cpp;C:\Users\hapav\Downloads\Project2\Project2\Project2\x64\Debug\Persona.obj
-C:\Users\hapav\Downloads\Project2\Project2\Project2\x64\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cpp;C:\Users\hapav\Downloads\Project2\Project2\Project2\x64\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.obj
+C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\Cola.cpp;C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\x64\Debug\Cola.obj
+C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\Gestion.cpp;C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\x64\Debug\Gestion.obj
+C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\GestorMensajes.cpp;C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\x64\Debug\GestorMensajes.obj
+C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\ListaContactos.cpp;C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\x64\Debug\ListaContactos.obj
+C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\ListaMensajes.cpp;C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\x64\Debug\ListaMensajes.obj
+C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\Listausuarios.cpp;C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\x64\Debug\Listausuarios.obj
+C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\Main.cpp;C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\x64\Debug\Main.obj
+C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\MyForm.cpp;C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\x64\Debug\MyForm.obj
+C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\Nodo.cpp;C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\x64\Debug\Nodo.obj
+C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\NodoMensaje.cpp;C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\x64\Debug\NodoMensaje.obj
+C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\Persona.cpp;C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\x64\Debug\Persona.obj
+C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\Pila.cpp;C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\x64\Debug\Pila.obj
+C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\x64\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cpp;C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\x64\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.obj

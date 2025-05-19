@@ -1,6 +1,6 @@
   Project2.MyForm.resources - Embedded, ContainedInManifestFile, 
 ImageRuntimeVersion: v4.0.30319
-Assembly Project2, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+Assembly Project2, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
 	hash=SHA1, flags=PublicKey
 Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
 	hash=None, flags=None
@@ -14,14 +14,96 @@ Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=
 	hash=None, flags=None
 Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
 	hash=None, flags=None
-Assembly System.Runtime.Serialization.Formatters.Soap, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+Assembly System.Runtime.Serialization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
 	hash=None, flags=None
+Class Cola`1[T]: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  Type parameter: T
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Int32 Count 'get ' : 
+  Methods:
+    get_Count(): PrivateScope, Public, HideBySig, SpecialName
+    Enqueue(T): PrivateScope, Public, HideBySig
+    Dequeue(): PrivateScope, Public, HideBySig
+    Peek(): PrivateScope, Public, HideBySig
+    IsEmpty(): PrivateScope, Public, HideBySig
+    Clear(): PrivateScope, Public, HideBySig
+Class Pila`1[T]: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  Type parameter: T
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Int32 Count 'get ' : 
+  Methods:
+    get_Count(): PrivateScope, Public, HideBySig, SpecialName
+    Push(T): PrivateScope, Public, HideBySig
+    Pop(): PrivateScope, Public, HideBySig
+    Peek(): PrivateScope, Public, HideBySig
+    IsEmpty(): PrivateScope, Public, HideBySig
+    Clear(): PrivateScope, Public, HideBySig
+Class GestorMensajes`1[T]: AutoLayout, AnsiClass, Class, Public, Serializable, BeforeFieldInit
+  Type parameter: T
+    Void .ctor(T, TipoMensaje, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Boolean Leido 'get set' : 
+    System.String OtroUsuario 'get ' : 
+    System.DateTime Fecha 'get ' : 
+    TipoMensaje Tipo 'get ' : 
+    T Contenido 'get ' : 
+  Methods:
+    get_Contenido(): PrivateScope, Public, HideBySig, SpecialName
+    get_Tipo(): PrivateScope, Public, HideBySig, SpecialName
+    get_Fecha(): PrivateScope, Public, HideBySig, SpecialName
+    get_OtroUsuario(): PrivateScope, Public, HideBySig, SpecialName
+    get_Leido(): PrivateScope, Public, HideBySig, SpecialName
+    set_Leido(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    ToString(): PrivateScope, Public, Virtual, HideBySig
+Class NodoMensaje`1[T]: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  Type parameter: T
+    Void .ctor(T): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    T dato : Public
+    NodoMensaje`1[T] siguiente : Public
+Class ListaMensajes`1[T]: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  Type parameter: T
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    CompareByFecha(GestorMensajes`1, GestorMensajes`1): PrivateScope, Public, Static, HideBySig
+    CompareByContacto(GestorMensajes`1, GestorMensajes`1): PrivateScope, Public, Static, HideBySig
+    CompareByLongitud(GestorMensajes`1, GestorMensajes`1): PrivateScope, Public, Static, HideBySig
+    GetMensajesCon(String): PrivateScope, Public, HideBySig
+    AgregarMensaje(T, TipoMensaje, Boolean(HasFieldMarshal), String): PrivateScope, Public, HideBySig
+    DeshacerUltimoMensaje(): PrivateScope, Public, HideBySig
+    RehacerUltimoMensaje(): PrivateScope, Public, HideBySig
+    CantidadNoLeidos(): PrivateScope, Public, HideBySig
+    GetMensajesNoLeidos(): PrivateScope, Public, HideBySig
+    MarcarLeidosCon(String): PrivateScope, Public, HideBySig
+    PrepararParaGuardar(): PrivateScope, Public, HideBySig
+    RestaurarDesdeCarga(GestorMensajes`1[]): PrivateScope, Public, HideBySig
+    GuardarConversacion(String): PrivateScope, Public, HideBySig
+    CargarConversacion(String): PrivateScope, Public, HideBySig
+    OrdenarPorFecha_Burbuja(): PrivateScope, Public, HideBySig
+    OrdenarPorContacto_Insercion(): PrivateScope, Public, HideBySig
+    OrdenarPorLongitud_QuickSort(): PrivateScope, Public, HideBySig
 Class Nodo: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
     Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
     Void .ctor(Persona): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
   Fields:
     Persona persona : Public
     Nodo next : Public
+Class Listausuarios: AutoLayout, AnsiClass, Class, Public
+    Void .ctor(Nodo): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    GetAllUsuarios(): PrivateScope, Public, HideBySig
+    BuscarPersona(String, Int32): PrivateScope, Public, HideBySig
+    Add(Persona): PrivateScope, Public, HideBySig
+    obtenerMitad(Nodo, Nodo): PrivateScope, Public, HideBySig
+    Isempty(): PrivateScope, Public, HideBySig
+    GuardarEnArchivo(): PrivateScope, Public, HideBySig
+    eliminar(String): PrivateScope, Public, HideBySig
+    CargarDesdeArchivo(): PrivateScope, Public, HideBySig
+    agregarList(ListBox): PrivateScope, Public, HideBySig
+    OrdenarPorUsername(): PrivateScope, Public, HideBySig
 Class ListaContactos: AutoLayout, AnsiClass, Class, Public, Serializable, BeforeFieldInit
     Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
   Methods:
@@ -32,46 +114,7 @@ Class ListaContactos: AutoLayout, AnsiClass, Class, Public, Serializable, Before
     obtenerMitad(Nodo, Nodo): PrivateScope, Public, HideBySig
     agregarList(ListBox): PrivateScope, Public, HideBySig
     agregar(Persona): PrivateScope, Public, HideBySig
-Class Persona: AutoLayout, AnsiClass, Class, Public, Serializable, BeforeFieldInit
-    Void .ctor(System.String, System.String, System.String, System.String, Int32, System.Drawing.Image, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
-  Methods:
-    GetNombreUsuario(): PrivateScope, Public, HideBySig
-    SetNombreUsuario(String): PrivateScope, Public, HideBySig
-    GetNombreCompleto(): PrivateScope, Public, HideBySig
-    SetNombreCompleto(String): PrivateScope, Public, HideBySig
-    GetCorreo(): PrivateScope, Public, HideBySig
-    SetCorreo(String): PrivateScope, Public, HideBySig
-    GetContrasena(): PrivateScope, Public, HideBySig
-    SetContrasena(String): PrivateScope, Public, HideBySig
-    GetEdad(): PrivateScope, Public, HideBySig
-    SetEdad(Int32): PrivateScope, Public, HideBySig
-    GetImagenPerfil(): PrivateScope, Public, HideBySig
-    SetImagenPerfil(Image): PrivateScope, Public, HideBySig
-    GetPreguntaSeguridad(): PrivateScope, Public, HideBySig
-    SetPreguntaSeguridad(String): PrivateScope, Public, HideBySig
-    GetRespuesta(): PrivateScope, Public, HideBySig
-    SetRespuesta(String): PrivateScope, Public, HideBySig
-    GetEstado(): PrivateScope, Public, HideBySig
-    SetEstado(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
-    GetListaContactos(): PrivateScope, Public, HideBySig
-    GetSolicitudesEnviadas(): PrivateScope, Public, HideBySig
-    GetSolicitudesRecibidas(): PrivateScope, Public, HideBySig
-    ToString(): PrivateScope, Public, Virtual, HideBySig
-    PrepararParaGuardar(): PrivateScope, Public, HideBySig
-    RestaurarDesdeCarga(): PrivateScope, Public, HideBySig
-Class Listausuarios: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
-    Void .ctor(Nodo): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
-    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
-  Methods:
-    BuscarPersona(String, Int32): PrivateScope, Public, HideBySig
-    Add(Persona): PrivateScope, Public, HideBySig
-    obtenerMitad(Nodo, Nodo): PrivateScope, Public, HideBySig
-    Isempty(): PrivateScope, Public, HideBySig
-    GuardarEnArchivo(): PrivateScope, Public, HideBySig
-    eliminar(String): PrivateScope, Public, HideBySig
-    CargarDesdeArchivo(): PrivateScope, Public, HideBySig
-    agregarList(ListBox): PrivateScope, Public, HideBySig
-    OrdenarPorUsername(): PrivateScope, Public, HideBySig
+    GetHead(): PrivateScope, Public, HideBySig
 Class Project2.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
   :System.Windows.Forms.Form
     Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

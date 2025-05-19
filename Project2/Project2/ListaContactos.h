@@ -22,6 +22,5 @@ public:
 	Nodo^ obtenerMitad(Nodo^ inicio, Nodo^ final);
 	void agregarList(ListBox^ lista);
 	void agregar(Persona^ usuario);
-
-	
+	Nodo^ GetHead(); 
 };

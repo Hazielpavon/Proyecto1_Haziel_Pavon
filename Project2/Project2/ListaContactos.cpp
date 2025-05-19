@@ -1,6 +1,6 @@
 #include "ListaContactos.h"
 using namespace System::Collections::Generic;
-
+// Retorna una lista de contactos de tipo vector 
 array<String^>^ ListaContactos::GetNombresUsuarios() {
 	List<String^>^ nombres = gcnew List<String^>();
 	Nodo^ actual = listaContactos;
@@ -12,12 +12,12 @@ array<String^>^ ListaContactos::GetNombresUsuarios() {
 	return nombres->ToArray();
 }
 
-
+// constructor vacio 
 ListaContactos::ListaContactos()
 {
 	this->listaContactos = nullptr;
 }
-
+// busqueda binaria 
 Nodo^ ListaContactos::buscar(String^ Dato, int criterio)
 {
 	if (listaContactos == nullptr) return nullptr;
@@ -54,6 +54,7 @@ Nodo^ ListaContactos::buscar(String^ Dato, int criterio)
 
 	return nullptr;
 }
+// se ordena por bubble sort para que la busqueda binaria funcione 
 void ListaContactos::OrdenarPorUsername()
 {
 	if (listaContactos == nullptr) return;
@@ -83,7 +84,7 @@ void ListaContactos::OrdenarPorUsername()
 	} while (intercambiado);
 }
 
-
+// Eliminar un contacto de la lista enlazada 
 void ListaContactos::Eliminar(String^ usuario)
 {
 	if (listaContactos == nullptr) return;
@@ -107,7 +108,7 @@ void ListaContactos::Eliminar(String^ usuario)
 	}
 }
 
-
+// metodo auxiliar de la clase buscar 
 Nodo^ ListaContactos::obtenerMitad(Nodo^ inicio, Nodo^ fin)
 {
 	if (inicio == nullptr) return nullptr;
@@ -122,6 +123,7 @@ Nodo^ ListaContactos::obtenerMitad(Nodo^ inicio, Nodo^ fin)
 
 
 }
+// agregar a una listbox 
 void ListaContactos::agregarList(ListBox^ lista)
 {
 	lista->Items->Clear();
@@ -130,8 +132,8 @@ void ListaContactos::agregarList(ListBox^ lista)
 		lista->Items->Add(actual->persona);
 		actual = actual->next;
 	}
-
 }
+// agregar un contacto solo y SOLO despues de aceptar la solicitud de amistad 
 
 void ListaContactos::agregar(Persona^ usuario)
 {
@@ -149,6 +151,11 @@ void ListaContactos::agregar(Persona^ usuario)
 		}
 		actual->next = nuevo;
 	}
+}
+// retorna la cabeza de la lista 
+Nodo^ ListaContactos::GetHead()
+{
+	return listaContactos;
 }
 
 

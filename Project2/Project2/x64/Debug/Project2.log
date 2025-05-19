@@ -1,11 +1,69 @@
-﻿  Main.cpp
+﻿  Gestion.cpp
+C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\ListaContactos.h(24,32): warning C4677: 'agregar': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Persona'
+  (compilando archivo de origen "Gestion.cpp")
+      C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\Persona.h(20,11):
+      vea la declaración de 'Persona'
+  
+  ListaContactos.cpp
+C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\ListaContactos.h(24,32): warning C4677: 'agregar': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Persona'
+  (compilando archivo de origen "ListaContactos.cpp")
+      C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\Persona.h(20,11):
+      vea la declaración de 'Persona'
+  
+  Listausuarios.cpp
+C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\Nodo.h(9,18): warning C4677: 'persona': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Persona'
+  (compilando archivo de origen "Listausuarios.cpp")
+      C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\Persona.h(20,11):
+      vea la declaración de 'Persona'
+  
+C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\Nodo.h(11,6): warning C4677: 'Nodo': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Persona'
+  (compilando archivo de origen "Listausuarios.cpp")
+      C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\Persona.h(20,11):
+      vea la declaración de 'Persona'
+  
+C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\Listausuarios.h(31,34): warning C4677: 'GetAllUsuarios': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Persona'
+  (compilando archivo de origen "Listausuarios.cpp")
+      C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\Persona.h(20,11):
+      vea la declaración de 'Persona'
+  
+C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\Listausuarios.h(33,33): warning C4677: 'Add': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Persona'
+  (compilando archivo de origen "Listausuarios.cpp")
+      C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\Persona.h(20,11):
+      vea la declaración de 'Persona'
+  
+C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\Listausuarios.cpp(149,33): warning C4101: 'sx': variable local sin referencia
+  Main.cpp
+C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\MyForm.h(59,35): warning C4566: el carácter representado por el nombre de carácter universal '\u2192' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Main.cpp")
+  
+C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\MyForm.h(69,35): warning C4566: el carácter representado por el nombre de carácter universal '\u2192' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Main.cpp")
+  
+C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\MyForm.h(2795,15): warning C4244: 'inicializando': conversión de 'wchar_t' a 'char'; posible pérdida de datos
+  (compilando archivo de origen "Main.cpp")
+  
   MyForm.cpp
-C:\Users\hapav\Downloads\Project2\Project2\Project2\MyForm.h(2356,15): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
-  (compiling source file 'Main.cpp')
+C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\MyForm.h(59,35): warning C4566: el carácter representado por el nombre de carácter universal '\u2192' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "MyForm.cpp")
   
-C:\Users\hapav\Downloads\Project2\Project2\Project2\MyForm.h(2356,15): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
-  (compiling source file 'MyForm.cpp')
+C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\MyForm.h(69,35): warning C4566: el carácter representado por el nombre de carácter universal '\u2192' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "MyForm.cpp")
   
-  Generating Code...
-  Gestion.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-  Project2.vcxproj -> C:\Users\hapav\Downloads\Project2\Project2\x64\Debug\Project2.exe
+C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\MyForm.h(2795,15): warning C4244: 'inicializando': conversión de 'wchar_t' a 'char'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+  Nodo.cpp
+C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\Nodo.h(9,18): warning C4677: 'persona': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Persona'
+  (compilando archivo de origen "Nodo.cpp")
+      C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\Persona.h(20,11):
+      vea la declaración de 'Persona'
+  
+C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\Nodo.h(11,6): warning C4677: 'Nodo': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Persona'
+  (compilando archivo de origen "Nodo.cpp")
+      C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\Project2\Persona.h(20,11):
+      vea la declaración de 'Persona'
+  
+  Persona.cpp
+  Generando código...
+  Cola.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Project2.vcxproj -> C:\Users\Administrador\Downloads\Project2 (2)\Project2\Project2\x64\Debug\Project2.exe
